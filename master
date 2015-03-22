@@ -1,0 +1,12 @@
+---
+/root/tests/cat.yml:
+  age: 23
+  name: cat
+  teeth: 45
+/root/tests/dog.yml:
+  age: 23
+  name: dog
+  teeth: 30
+/root/tests/fish.yml:
+  name: fish
+
